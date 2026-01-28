@@ -25,3 +25,4 @@ alert(
   `Parabéns! Você acertou o número secreto ${numeroSecreto} com ${tentativas} ${palavraTentativa}.`,
 );
 
+

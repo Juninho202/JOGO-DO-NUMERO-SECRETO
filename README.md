@@ -1,1 +1,1 @@
-![Imagem do jogo](robô.png)
+![Imagem do jogo](robot.png)

@@ -100,16 +100,16 @@ h2 {
   .container {
     flex-direction: column;
     height: auto;
-    text-align: center; /* Centraliza o texto no mobile */
+    text-align: center; 
   }
 
   .container__conteudo {
-    position: static; /* Remove o posicionamento absoluto para não sobrepor */
+    position: static; 
     flex-direction: column;
   }
 
   h1 {
-    font-size: 40px; /* Diminui o título para caber na tela */
+    font-size: 40px; 
   }
 
   h2 {

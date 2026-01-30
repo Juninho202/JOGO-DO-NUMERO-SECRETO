@@ -1,5 +1,5 @@
 alert("Boas vindas ao jogo de adivinhação!");
-let numeroMaximo = 100;
+let numeroMaximo = 1000;
 let numeroSecreto = parseInt(Math.random() * numeroMaximo + 1);
 console.log("numeroSecreto:", numeroSecreto);
 let chute;
@@ -24,6 +24,7 @@ let palavraTentativa = tentativas == 1 ? "tentativa" : "tentativas";
 alert(
   `Parabéns! Você acertou o número secreto ${numeroSecreto} com ${tentativas} ${palavraTentativa}.`,
 );
+
 
 
 
